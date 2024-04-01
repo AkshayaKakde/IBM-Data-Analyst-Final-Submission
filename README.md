@@ -30,8 +30,16 @@ Upon completion of the program, you'll undertake a real-world capstone project t
 
 This credential earner has demonstrated proficiency in applying various analytical techniques by analyzing real-world datasets, creating visualizations, and interactive dashboards, and presenting comprehensive reports to communicate findings of data analysis effectively. Equipped with skills suitable for an entry-level role in data analytics, the earner has successfully completed 9 courses in Data Analytics and acquired hands-on experience with a diverse range of data analysis tools, including but not limited to Excel, SQL, Databases, Python, JupyterLab, and Cognos.
 
-![alt text](<IBM Data Analyst Capstone Project Certificate.jpg>)
+**Certificate :**
 
+![Sample Image](IBM_Data_Analyst__Capstone_Project_Certificate.jpg)
+
+Specialisation completed on **11th February 2024**.
+
+**Link for verification :**
+
+[Coursera IBM Data Analyst](https://coursera.org/verify/profession
+al-cert/3YAY2MDECHTW)
 
 📙 Course Structures
 
@@ -46,7 +54,7 @@ Distinguish between various data-oriented roles, such as Data Engineer, Data Ana
 Explain different data structures, file formats, data sources, and repositories.
 Analyze a business case study and its dataset to recognize key components within the Data Analytics process.
 
-(<Introduction To Data Analytics. Module 1.jpg>)
+
 
 Course-2 : Excel Basics for Data Analysis
 
